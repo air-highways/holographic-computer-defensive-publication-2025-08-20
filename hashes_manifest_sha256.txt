@@ -1,0 +1,9 @@
+# Windows: certutil -hashfile <file> SHA256
+# macOS/Linux: shasum -a 256 <file>
+
+SHA256(Holographic_Computer_Disclosure.txt)= <PUT_HASH>
+SHA256(BG_Declaration.pdf)=                 <PUT_HASH>
+SHA256(EN_Declaration.pdf)=                 <PUT_HASH>
+SHA256(Logo.png)=                           <PUT_HASH>
+SHA256(Tech_Sketch.pdf)=                    <PUT_HASH>
+SHA256(Demo.mp4)=                           <PUT_HASH>
