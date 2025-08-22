@@ -1,0 +1,28 @@
+Title: Holographic Computer — Defensive Publication
+Author: Zhivko Georgiev Zhelev
+Priority date/time: 20.08.2025, 08:30 (Europe/Sofia)
+
+Abstract
+Компактен „холографски“ компютър: стабилен водно/аерозолен „лист“ във въздуха,
+късофокусен проектор и автоматично PID управление на дебити/влажност в затворен цикъл
+(влагоуловител + конденз), така че помещението почти да не се овлажнява.
+
+Technical Description
+• Medium & Flow: ламинарен канал и тънък „лист“; дифузори тип „пчелна пита“; изходен слот.
+• Closed Loop: колектор/дехумидификатор връща водата; RH въздействие ~минимално.
+• Optics: short-throw проектор на малък ъгъл; цел 24–60 fps.
+• Sensing: RH/Temp, оптична плътност (лазер+фотодиод), ΔP.
+• Control: 2× PID (стабилност на „екрана“; RH), PWM вентилатори, изпарител, кондензатор.
+• Safety: RCD/RCBO, отделени „сухи“ отделения, дестилирана вода.
+• Interaction: жестове/глас (IR/vision).
+
+Hashes (SHA-256)
+• This TXT/PDF:  <PUT_SHA256_OF_THIS_DOCUMENT_HERE>
+
+Public Links (to be added)
+• BG Declaration (PDF):  <URL>   • EN Declaration (PDF):  <URL>
+• Logo (PNG):            <URL>   • Tech Sketch (PDF):     <URL>   • Demo video: <URL>
+
+Notice
+This document is intentionally published to constitute prior art and establish priority. © 2025
+Contact: <email / phone>
